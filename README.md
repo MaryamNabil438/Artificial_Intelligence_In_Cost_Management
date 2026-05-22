@@ -33,7 +33,7 @@ All wireframes and UI designs were created in Figma.
 
 > 🔗 **View interactive Figma prototype here:** https://www.figma.com/make/M6NV6aVgv67a2xxtoX73Ap/AI-Cost-Management-System--1---1-?t=Ght8wkQ7VIuNTCDq-1 
 
-Exported screen designs are available in the `/diagrams` folder, organized by role: CFO Dashboard, Finance Manager Dashboard, Cost Analyst Dashboard, Cost Controller Dashboard, and Department Manager Dashboard.
+Exported screen designs are available in the folder, organized by role: CFO Dashboard, Finance Manager Dashboard, Cost Analyst Dashboard, Cost Controller Dashboard, and Department Manager Dashboard.
 
 ---
 
@@ -64,7 +64,7 @@ Exported screen designs are available in the `/diagrams` folder, organized by ro
 
 Since this is a design-based prototype developed in Figma, the primary deliverable is the interactive UI design rather than deployable code.
 
-To explore the system: Open the Figma prototype link above. Navigate between role dashboards using the left sidebar. Refer to `/diagrams` for exported screen-by-screen views
+To explore the system: Open the Figma prototype link above. Navigate between role dashboards using the left sidebar. Refer to png uploaded files for exported screen-by-screen views and Main BPMN of the prototype. 
 
 ## Evaluation
 
