@@ -65,6 +65,7 @@ Exported screen designs are available in the folder, organized by role: CFO Dash
 Since this is a design-based prototype developed in Figma, the primary deliverable is the interactive UI design rather than deployable code.
 
 To explore the system: Open the Figma prototype link above. Navigate between role dashboards using the left sidebar. Refer to png uploaded files for exported screen-by-screen views and Main BPMN of the prototype. 
+Or you can use the Full Implementation Code of CostAI folder uploaded here to run on VSC. 
 
 ## Evaluation
 
