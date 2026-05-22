@@ -3,7 +3,7 @@ CostAI: A Unified Multi-Technology AI System for Cost Management
 
 Bachelor Thesis | The German University in Cairo
 Author: Maryam Mohamed Nabil
-Supervisor:** Dr. Ayman Alserafi
+Supervisor: Dr. Ayman Alserafi
 
 
 This README file includes: Presentation, User Stories, Wireframe, System Architecture, Test Cases of the implemented prototype
